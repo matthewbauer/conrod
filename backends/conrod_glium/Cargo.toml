@@ -26,4 +26,5 @@ find_folder = "0.3.0"
 image = "0.22"
 petgraph = "0.4"
 rand = "0.7"
-winit = "0.19"
+winit = { git = "https://github.com/matthewbauer/winit", rev = "85ca15b1ad268f17525043b84050e0feb407cd1f" }
+
